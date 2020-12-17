@@ -1,1 +1,0 @@
-"C:\program files (x86)\Google\Chrome\Application\Chrome.exe" https://login.microsoftonline.com --profile-directory="teamsprofile" --new-window
