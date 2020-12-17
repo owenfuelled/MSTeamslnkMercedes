@@ -1,0 +1,1 @@
+"C:\program files (x86)\Google\Chrome\Application\Chrome.exe" https://go.microsoft.com/fwlink/p/?LinkID=873020&clcid=0x1009&culture=en-ca&country=CA&lm=deeplink&lmsrc=homePageWeb&cmpid=WebSignIn --profile-directory="teamsprofile" --new-window
